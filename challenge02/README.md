@@ -21,10 +21,10 @@ Desenvolver uma API REST que receba múltiplos currículos em PDF, processe-os *
 
 ### Entrada da API
 
-| # | Documento | Descrição |
-|---|-----------|-----------|
-| 1 | **Currículo PDF** | Documento com dados do candidato (dados pessoais, formação, experiência profissional, habilidades técnicas) |
-| 2 | **Descrição da vaga** | Descrição da vaga |
+| # | Documento |
+|---|-----------|
+| 1 | **Currículos em PDF** |
+| 2 | **Descrição da vaga** |
 
 > A API deve suportar o upload de **2 a 10 currículos** em uma única requisição.
 
