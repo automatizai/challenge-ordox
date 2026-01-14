@@ -1,0 +1,36 @@
+# 🐍 Desenvolvedor Python Pleno - Web Scraping
+
+**DataScrap | Remoto/Híbrido**
+
+## Sobre a DataScrap
+
+A DataScrap é uma empresa especializada em soluções de coleta e estruturação de dados da web. Ajudamos empresas a transformar dados públicos em insights estratégicos através de tecnologias de scraping de alta performance.
+
+## O que você vai fazer
+
+• Desenvolver e manter scrapers robustos e escaláveis em Python
+• Implementar soluções para contornar proteções anti-bot e CAPTCHAs
+• Estruturar e normalizar dados extraídos de múltiplas fontes
+• Otimizar performance e escalabilidade dos sistemas de coleta
+• Criar pipelines de dados automatizados e monitorados
+• Trabalhar com tecnologias de crawling distribuído
+• Documentar processos e manter código de qualidade
+
+## Requisitos Obrigatórios
+
+• 3+ anos de experiência com Python
+• Experiência sólida com bibliotecas de scraping (BeautifulSoup, Scrapy, Selenium, Playwright)
+• Conhecimento em HTML, CSS, XPath e seletores
+• Experiência com APIs REST e manipulação de dados (Pandas, JSON)
+• Familiaridade com bancos de dados (SQL e NoSQL)
+• Conhecimento em Git e boas práticas de desenvolvimento
+• Capacidade de debug e resolução de problemas complexos
+
+## Diferenciais
+
+• Experiência com Scrapy Cloud, Puppeteer ou ferramentas headless browsers
+• Conhecimento em proxies, rotação de IPs e técnicas anti-detecção
+• Experiência com Apache Airflow ou ferramentas de orquestração
+• Familiaridade com Docker e containerização
+• Conhecimento em AWS
+• Experiência com processamento assíncrono (asyncio, aiohttp)
